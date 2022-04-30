@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  background: #4d618d;
+  text-align: center;
+  align-items: center;
+}
+form
+{
+  margin:42vh 50%;
+}
+
+.Alit li
+{
+  margin-inline: 60px;
+}
+div
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* min-height: 100vh; */;
+ color: cornsilk;
+}
+button
+{
+  background: #4CAF50;
+  color: #fff;
+  border: 0;
+  border-radius: 4px;
+  padding: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+}
+button:hover
+{
+  background: #43A047;
+}
